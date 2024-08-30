@@ -1,4 +1,4 @@
-Cohort Analysis is a powerful analytical technique used to understand the behavior and performance of a specific group of users or entities over time. In essence, a cohort is a group of individuals who share a common characteristic within a defined time frame. Cohort analysis helps businesses or analysts track how these groups evolve over time, often used to measure metrics like user retention, engagement, or revenue generation.
+**Cohort Analysis is a powerful analytical technique used to understand the behavior and performance of a specific group of users or entities over time. In essence, a cohort is a group of individuals who share a common characteristic within a defined time frame. Cohort analysis helps businesses or analysts track how these groups evolve over time, often used to measure metrics like user retention, engagement, or revenue generation.
 
 Key Concepts in Cohort Analysis:
 Cohort Definition:
